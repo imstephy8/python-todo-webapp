@@ -6,7 +6,7 @@ A simple Python-based to-do list web app built for learning and practice.
 
 This is a personal learning project where I am rewriting a to-do list web app by myself.
 
-I used an existing open-source project as a starting reference, but I am rebuilding the project on my own and may change the structure, design, and features as I continue developing it.
+I used an existing open-source project as a starting reference, but I am rebuilding the project on my own and may change the structure, design, and features as I continue developing it. I will try to make it more functional and good to use.
 
 The goal of this project is to practice:
 - Python programming
