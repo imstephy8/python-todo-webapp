@@ -16,7 +16,8 @@ The goal of this project is to practice:
 
 ## Original Inspiration
 
-This project was inspired by the following repository:  
+This project was inspired by the following repository: 
+
 [Original Repository](https://github.com/Dheeraj-kannekanti/todo-app)
 
 ## My Work
